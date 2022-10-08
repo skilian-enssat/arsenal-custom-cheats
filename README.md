@@ -1,4 +1,4 @@
-MD files should be placed in the ~/.cheats directory
+MD files should be placed in the ~/.cheats directory</br>
 Could be setup with :</br>
 $ cd</br>
 $ git clone https://github.com/skilian-enssat/arsenal-custom-cheats</br>
