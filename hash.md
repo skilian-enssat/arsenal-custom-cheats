@@ -1,8 +1,8 @@
 # hash
 
-% hash
+% Detect and reverse hash functions
 
-#plateform/linux
+#plateform/linux #target/local #cat/CRACK
 
 ## Identify the type of a hash
 found at https://github.com/noraj/haiti/

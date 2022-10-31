@@ -2,7 +2,7 @@
 
 % ropper
 
-#plateform/linux
+#plateform/linux #target/local #cat/PWN
 
 ## All ropper gadgets
 ```

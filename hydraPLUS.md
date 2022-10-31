@@ -2,7 +2,7 @@
 
 % hydraPLUS
 
-#plateform/linux
+#plateform/linux #target/remote #cat/ATTACK
 
 ## Bruteforce username in login form
 ```
